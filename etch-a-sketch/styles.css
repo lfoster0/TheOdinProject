@@ -1,0 +1,39 @@
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: #FFFFFF;
+  display: inline-block;
+}
+
+.container {
+  width: 960px;
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.grid {
+  line-height: 0;
+  outline: solid 1px black;
+}
+
+.buttons {
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+h1, h2 {
+  font-family: 'Open Sans', sans-serif;
+  margin:0;
+}
+
+h1 {
+  color: #ff6600;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 400;
+  margin-top:5px;
+}
